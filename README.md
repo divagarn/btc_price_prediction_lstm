@@ -1,5 +1,7 @@
 # btc_price_prediction_using_lstm
 
+# soon the tutorial video will upload in my [youtube channel] (https://www.youtube.com/c/DCinfotainment) 
+
 # Bitcoin-Price-Prediction
 This notebook demonstrates the prediction of the bitcoin price by the neural network model. We are using long short term memory (LSTM)
 
