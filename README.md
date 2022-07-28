@@ -3,16 +3,16 @@
 #Bitcoin-Price-Prediction-Using-RNN-LSTM
 This notebook demonstrates the prediction of the bitcoin price by the neural network model. We are using long short term memory (LSTM)
 
-#mac os usage:
+# mac os usage:
 download conda 
 create new conda env 
 activate it 
 and use as a kernel in jupiter notebook 
 
-#Getting Started
+# Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
-#there are four steps 
+# There are four steps 
 1.Getting real-time crptocurrency data(bitcoin).
 2.Prepare data for training and testing.
 3.Predict the price of crptocurrency using LSTM neural network (deep learning).
