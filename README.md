@@ -1,4 +1,4 @@
-# btc_price_prediction_using_lstm
+# btc_price_prediction_using_lstm here.
 
 # soon the tutorial video will upload in my youtube channel
 YOUTUBE CHANNEL LINK : [youtube](https://www.youtube.com/c/DCinfotainment) 
